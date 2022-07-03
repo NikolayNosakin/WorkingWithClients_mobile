@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.14">
+	<ConfigVersions>
+		<Metadata name="Catalog.Клиенты" id="289721bc-93d6-448c-9cb7-c51bba1171ce" configVersion="5a304e65fb8ca24dbd294a0e8340b5e000000000"/>
+		<Metadata name="Catalog.Клиенты.Form.ФормаВыбора" id="33090978-9439-4f05-aa94-58fb66c75d35" configVersion="6c43839c20a054498dc1dd412d858cfc00000000"/>
+		<Metadata name="Catalog.Клиенты.Form.ФормаВыбора.Form" id="33090978-9439-4f05-aa94-58fb66c75d35.0" configVersion="57653cd53b438040acaffbecf0b68f4800000000"/>
+		<Metadata name="Catalog.Клиенты.Form.ФормаСписка" id="ddb243a2-7edf-42ff-a4f7-6c98d2515fe4" configVersion="bc8d4075828ad544a9661d587900697c00000000"/>
+		<Metadata name="Catalog.Клиенты.Form.ФормаСписка.Form" id="ddb243a2-7edf-42ff-a4f7-6c98d2515fe4.0" configVersion="ab49c8c867183447afe69d5cce69d3f600000000"/>
+		<Metadata name="Catalog.Клиенты.Form.ФормаЭлемента" id="5f5a745c-1c99-413e-a2a9-725d9aca2b09" configVersion="aded5b90b628fe4da109ef8d4d42551800000000"/>
+		<Metadata name="Catalog.Клиенты.Form.ФормаЭлемента.Form" id="5f5a745c-1c99-413e-a2a9-725d9aca2b09.0" configVersion="00ae74d4ae38d24db5ea9f8e00d98a4a00000000"/>
+		<Metadata name="Catalog.ПланируемыеЗадачи" id="2eb631fa-2bea-49c5-81a6-3f6f2c6bbdd1" configVersion="332374712016d9479bbfec79d165f5ff00000000">
+			<Metadata name="Catalog.ПланируемыеЗадачи.Attribute.Клиент" id="5eba271a-805a-4df1-af02-8a13b350b318"/>
+			<Metadata name="Catalog.ПланируемыеЗадачи.Attribute.ОписаниеЗадачи" id="ab14c0ae-8f42-4b68-a41f-b5d5ec90907d"/>
+		</Metadata>
+		<Metadata name="Catalog.ПланируемыеЗадачи.Help" id="2eb631fa-2bea-49c5-81a6-3f6f2c6bbdd1.1" configVersion="d54f19f3767b6c4ea0ddba654d070d6c00000000"/>
+		<Metadata name="Catalog.ПланируемыеЗадачи.ManagerModule" id="2eb631fa-2bea-49c5-81a6-3f6f2c6bbdd1.3" configVersion="0eaa6559d4e2bd40b94f8047b40e4c8200000000"/>
+		<Metadata name="CommonForm.Настройки" id="28741a2a-5de4-4112-9e2b-018cd21b6716" configVersion="b8f8b0299840ea4cacfa4f7c49f5c95f00000000"/>
+		<Metadata name="CommonForm.Настройки.Form" id="28741a2a-5de4-4112-9e2b-018cd21b6716.0" configVersion="70e3717035a7e64a8bf4ebd8ff4cf9a700000000"/>
+		<Metadata name="CommonForm.РабочийСтол" id="7c158ced-7c7e-4b74-88b4-2303bfe260b8" configVersion="c6bc9f2e4a41f94d966758b5dccfd7d400000000"/>
+		<Metadata name="CommonForm.РабочийСтол.Form" id="7c158ced-7c7e-4b74-88b4-2303bfe260b8.0" configVersion="4b0049ea2de07844812990de529845b300000000"/>
+		<Metadata name="Configuration.РаботаСКлиентами" id="1aa526ef-fd1a-450c-b05f-ffa54f939a85" configVersion="331bea37f2d6d240bf0b3c7dc42faf2d00000000"/>
+		<Metadata name="Configuration.РаботаСКлиентами.HomePageWorkArea" id="945a749d-827f-4743-9b65-7cce34b5329e.8" configVersion="a7fbb2f29ad60945a324f9b8c5c7e45400000000"/>
+		<Metadata name="Configuration.РаботаСКлиентами.MainSectionCommandInterface" id="945a749d-827f-4743-9b65-7cce34b5329e.9" configVersion="427470eaddf120439e01910840c9a41000000000"/>
+		<Metadata name="Constant.ИспользоватьЦеныЗадач" id="f5d06728-037c-4c3a-bac9-bb616d2e5ad3" configVersion="d06c61bb648d3847a3869c52cb6b371c00000000"/>
+		<Metadata name="Constant.ИспользоватьЦеныНаПунктыЗадач" id="bc59fdd3-3df2-4d87-b87c-85f6c1b5bdc4" configVersion="49fdc5ec7f4d3247a14ede4d7837ca9f00000000"/>
+		<Metadata name="Document.Задачи" id="9faebd4c-f8cb-4494-8592-7b3790d13a0b" configVersion="29006eee0e88a446bf792d4380a14b2e00000000">
+			<Metadata name="Document.Задачи.TabularSection.Задачи.Attribute.ОписаниеЗадачи" id="0bf438eb-daf2-4774-a807-7ee3d3b59b14"/>
+			<Metadata name="Document.Задачи.Attribute.Клиент" id="4f45506a-5c4e-4cdb-8380-6622a05d5d53"/>
+			<Metadata name="Document.Задачи.TabularSection.Задачи" id="5e80e370-6522-4cf2-ad44-3d432a10932f"/>
+			<Metadata name="Document.Задачи.TabularSection.Задачи.Attribute.Стоимость" id="74180a7b-d19d-4226-93bb-3c0826256441"/>
+			<Metadata name="Document.Задачи.Attribute.ЦенаЗадачи" id="8ba91fb0-ba8c-4481-a44b-b5e5a2ed4f8c"/>
+			<Metadata name="Document.Задачи.Attribute.Статус" id="d52f85d5-3809-4e3f-b0e6-d5dff1a7be0b"/>
+		</Metadata>
+		<Metadata name="Enum.СтатусыЗадач" id="c1e1f0f7-a967-4858-a6e6-d0cac0718022" configVersion="84983ac0ce59b54fbc5ea90e27fa554b00000000">
+			<Metadata name="Enum.СтатусыЗадач.EnumValue.ВРаботе" id="18fd0e40-70a3-479d-b8e7-d979d256331a"/>
+			<Metadata name="Enum.СтатусыЗадач.EnumValue.Выполнена" id="33aca4fb-b67c-4d13-9f9e-c40604bc43e7"/>
+			<Metadata name="Enum.СтатусыЗадач.EnumValue.Планируется" id="b9fe02d4-f673-4646-b9ac-eeccc378a1fb"/>
+		</Metadata>
+		<Metadata name="FunctionalOption.ИспользоватьЦеныЗадач" id="c8bcc874-8032-42c5-a817-0eef5d8df4a1" configVersion="42b347d367bf3647a287d02b117894aa00000000"/>
+		<Metadata name="FunctionalOption.ИспользоватьЦеныНаПунктыЗадач" id="70187d46-2397-409c-b46f-8adfe75a789f" configVersion="c7f823ffe2dbdc429da2bb5c7de5d71300000000"/>
+		<Metadata name="Language.Русский" id="db9b6482-7df5-44b0-9d8b-c427f71e44f3" configVersion="286f4cf8de7e0f49a143a14bd8f4146100000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
